@@ -36,3 +36,35 @@
     transform: rotate(360deg);
   }
 }
+
+body{
+  background-color: #282c34;
+}
+
+.heading{
+  color: beige;
+  text-transform: capitalize;
+  margin-bottom: 50px;
+  font-weight: 600;
+}
+
+nav{
+  background-color: teal;
+}
+
+.abc{
+  background-color: crimson;
+    border-radius: 5px;
+    margin: 8px;
+    font-weight: 600;
+}
+
+.company{
+  color:whitesmoke;
+  font-size: 24px;
+  font-family: serif;
+}
+
+.select-wrapper{
+  margin-left: 40px;
+}
